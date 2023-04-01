@@ -1,8 +1,8 @@
 <div align="center">
   <p>- 👋 Hi, I’m Melina Montelongo</p>
-  <p>- :butterfly: I'm about to obtain my Psychology degree and now venturing into IT</p>
-  <p>- :computer: I’m interested in learning new technologies and languages</p>
-  <p>- 🌱 I’m currently learning React and doing an internship as a Front End Developer.</p>
+  <p>- :butterfly: I'm a Full Stack Web Developer and soon-to-be Psychologist.</p>
+  <p>- :computer: I’m always interested in learning new technologies.</p>
+  <p>- 🌱 I’m currently doing an internship as a Front End Developer.</p>
 <p>- 📫 How to reach me:</p> <a href= "https://www.linkedin.com/in/melina-montelongo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width:30px; height: 30px"/><a/>
 </div>
   
