@@ -4,7 +4,6 @@
   <p>- :computer: I’m always interested in learning new skills.</p>
   <p>- 🌱 I’m currently working as a Front End Developer.</p>
   <p>- 🌸 Check <a href="https://melinamontelongo.vercel.app/">my portfolio!</a></p>
-<p>- 📫 How to reach me:</p> <a href= "https://www.linkedin.com/in/melina-montelongo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width:30px; height: 30px"/><a/>
 </div>
   
 <div align="center">
