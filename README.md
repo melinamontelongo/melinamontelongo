@@ -1,6 +1,6 @@
 <div align="center">
   <p>- 👋 Hi, I’m Melina Montelongo</p>
-  <p>- :butterfly: I'm a Full Stack Developer, Digital Artist and Faculty of Psychology Graduate.</p>
+  <p>- :butterfly: I'm a Full Stack Developer, Artist, and Psychology Graduate.</p>
   <p>- :computer: I’m always interested in learning new skills.</p>
   <p>- 🌱 I’m currently working as a Front End Developer.</p>
   <p>- 🌸 Check <a href="https://melinamontelongo.vercel.app/">my portfolio!</a></p>
